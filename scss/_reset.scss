@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+ul,ol,li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none; //기본 밑줄 없애기
+    outline: 0; //접근성 없음. 링크 선 없애기
+}
+
+img {
+    border: 0;
+}
